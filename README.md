@@ -13,4 +13,4 @@ Recomiendo poner la carpeta Endy en la raíz del sistema (en la configuración d
      alias endy='python3 /endy/endy.py'<br>
 Para ejecutar el comando una vez hecho el Alias, sería:
 
-     endy nmap 192.168.1.0/24 -sV -O
+     $ endy nmap 192.168.1.0/24 -sV -O
