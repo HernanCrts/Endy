@@ -10,6 +10,7 @@
 ## Información adicional
  >Recomiendo poner la carpeta Endy en la raíz del sistema (en la configuración del fichero esta ubicada ahí) y crear el siguiente Alias en el fichero de la 
  >Shell en uso, quedando de la siguiente forma:
+ 
      alias endy='python3 /endy/endy.py'
 
 >Entonces para ejecutarlo sería así:
