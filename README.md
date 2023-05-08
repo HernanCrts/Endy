@@ -1,5 +1,5 @@
 # Endy
-     Al terminar un proceso que tarde un buen tiempo, este te avisará con una notificación por pantalla y un leve sonido.
+Se trata de una aplicación que se lanza junto a otra que puede tardar un rato (ya sea nmap, dirb, etc) ,al terminar, este te avisará con una notificación por pantalla y un leve sonido.
 
 ## Para ejecutar el comando:
 * python3 endy.py <tarea a realizar>
