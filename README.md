@@ -12,7 +12,6 @@
      el siguiente Alias en el fichero de la Shell en uso, quedando de la siguiente forma:
 * alias endy='python3 /endy/endy.py'<br><br>
 
-## 
      Para ejecutar el comando una vez hecho el Alias, sería:
 
      
