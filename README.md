@@ -12,5 +12,5 @@
      el siguiente Alias en el fichero de la Shell en uso, quedando de la siguiente forma:
  
 * alias endy='python3 /endy/endy.py'<br>
-     Entonces para ejecutarlo sería así:<br>    
+          Entonces para ejecutarlo sería así:<br>    
 * endy nmap 192.168.1.0/24 -sV -O
