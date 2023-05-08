@@ -17,7 +17,7 @@
      
      
 
-## Para ejecutar el comando una vez hecho el Alias, sería:
+     Para ejecutar el comando una vez hecho el Alias, sería:
 
      
      
