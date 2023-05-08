@@ -15,4 +15,5 @@
 
      Entonces para ejecutarlo sería así:
      
+     
 * endy nmap 192.168.1.0/24 -sV -O
